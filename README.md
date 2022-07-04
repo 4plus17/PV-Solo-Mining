@@ -1,5 +1,8 @@
 # PV Solo Mining
-Bitcoin Solo Mining kombiniert mit einem PV Modul.
+**Bitcoin Solo Mining kombiniert mit einem PV Modul.**  
+Dieses Projekt ist ein Folgeprojekt von ["solo-usb-mining"](https://github.com/gunther0815/solo-usb-mining)!  
+
+Nachdem ich meinen USB-Miner aufgesetzt habe und ihn auf meinem Schreibtisch laufen lies, hatte ich Lust auf mehr Bastelei. Außerdem dachte ich, dass es praktisch wäre Sonnenenergie dafür zu nutzen, wenn ich das Mining längere Zeit laufen lassen möchte.
 
 ## [Einkaufsliste](shopping_list.md)
 
