@@ -4,6 +4,13 @@ Dieses Projekt ist ein Folgeprojekt von ["solo-usb-mining"](https://github.com/g
 
 Nachdem ich meinen USB-Miner aufgesetzt habe und ihn auf meinem Schreibtisch laufen lies, hatte ich Lust auf mehr Bastelei. Außerdem dachte ich, dass es praktisch wäre Sonnenenergie dafür zu nutzen, wenn ich das Mining längere Zeit laufen lassen möchte.
 
+
+
+
+Hardware (ohne PV-Modul)       |  Schaltkasten (grober Aufbau)
+:-------------------------:|:-------------------------:
+![20220624_195312](https://user-images.githubusercontent.com/108631209/178279266-b707c4c1-f892-46d9-8a14-eb04032a32e4.jpg)  |  ![20220624_203738](https://user-images.githubusercontent.com/108631209/178279286-fc70b34b-eb82-44a5-bf3a-f2dbeaf1b22f.jpg)
+
 ## [Einkaufsliste](shopping_list.md)
 
 Dies ist eine Liste mit allen von mir gekauften Teilen für das Projekt:
