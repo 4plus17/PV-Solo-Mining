@@ -10,6 +10,7 @@ Nachdem ich meinen USB-Miner aufgesetzt habe und ihn auf meinem Schreibtisch lau
 Hardware (ohne PV-Modul)       |  Schaltkasten (grober Aufbau)
 :-------------------------:|:-------------------------:
 ![20220624_195312](https://user-images.githubusercontent.com/108631209/178279266-b707c4c1-f892-46d9-8a14-eb04032a32e4.jpg)  |  ![20220624_203738](https://user-images.githubusercontent.com/108631209/178279286-fc70b34b-eb82-44a5-bf3a-f2dbeaf1b22f.jpg)
+PV Modul ![20220709_165553](https://user-images.githubusercontent.com/108631209/185236000-b0c1b186-560b-4597-b6de-5662dadfd435.jpg) |
 
 ## [Einkaufsliste](shopping_list.md)
 
